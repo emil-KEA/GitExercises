@@ -21,7 +21,6 @@ public class Main {
     }
     int askAboutAge(){
         System.out.println("Enter your age");
-        // in.nextLine();
         return in.nextInt();
     }
     void nyMetode(){
