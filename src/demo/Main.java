@@ -24,4 +24,7 @@ public class Main {
         // in.nextLine();
         return in.nextInt();
     }
+    void nyMetode(){
+        System.out.println("");
+    }
 }
